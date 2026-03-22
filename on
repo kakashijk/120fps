@@ -6,3 +6,4 @@ global max_fps 120.0
 global fps_limit 120.0
 secure game_overlay mode=2,fps=120
 system pdp_fps_limit 120.0
+secure refresh_rate_mode 1
