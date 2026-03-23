@@ -7,7 +7,7 @@ Supports 144fps & 144hz experience with smooth refresh rates and frame rates.
 2. Go to the Setbox app to upload it.
    
 3. Use **ON** to enable it 144fps.
-4. use **OFF** to disable it 120fps.
+4. use **OFF** to disable it, 120fps.
 5. That's it! Enjoy the module 🎯
 
 ---
