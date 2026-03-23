@@ -1,0 +1,7 @@
+id=120fps
+name=120hz & 120fps
+description=Supports 120hz and 120fps experience with smooth refresh rates and frame rates.
+author=kakashijk
+version=v1.0.0
+versionCode=1
+repository=https://github.com/kakashijk/120fps
