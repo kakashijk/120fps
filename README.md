@@ -1,12 +1,14 @@
-## ⚙️ 120fps and 120hz
-Supports 120hz and 120fps experience with smooth refresh rates and frame rates.
+## ⚙️ 144fps & 144hz
+Supports 144fps & 144hz experience with smooth refresh rates and frame rates.
 
 ## ⚙️ Usage
 1. Download the Setbox module from the Github community.
 
 2. Go to the Setbox app to upload it.
    
-3. Use **ON** to enable it. use **OFF** to disable it. That's it! Enjoy the module 🎯
+3. Use **ON** to enable it 144fps.
+4. use **OFF** to disable it 120fps.
+5. That's it! Enjoy the module 🎯
 
 ---
 
@@ -18,7 +20,7 @@ Supports 120hz and 120fps experience with smooth refresh rates and frame rates.
 ---
 
 ## 📊 Visitors at SetBox
-![Visitors at SetBox](https://visitor-badge.laobi.icu/badge?page_id=kakashijk/120fps)
+![Visitors at SetBox](https://visitor-badge.laobi.icu/badge?page_id=kakashijk/144fps)
 
 ---
 
